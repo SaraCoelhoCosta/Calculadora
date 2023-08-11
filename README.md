@@ -1,4 +1,7 @@
 # Calculadora Java com Padrão Observer
+<p align="center"> 
+  <img align="center" src="https://github.com/SaraCoelhoCosta/Calculadora/assets/31167065/a295fb18-573e-4f89-8e2d-22c6d8938617" width="150" heigth="250">  
+</p>
 
 Este é um projeto de calculadora Java que utiliza o padrão de projeto Observer. O projeto foi desenvolvido como parte de um curso online da Cod3r, focado no ensino de padrões de projeto e boas práticas de programação. A calculadora foi construída com a implementação do padrão Observer para lidar com a atualização automática de resultados e exibição de histórico. 📚
 
