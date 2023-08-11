@@ -1,10 +1,51 @@
-# Calculadora
+# Calculadora Java com Padrão Observer
 
-* 👩‍💻 Descrição: Calculadora simples que realiza operações entre 2 números apenas. OBS.: Ele sempre pega a última operação selecionada, com exceção da operação de igualdade.
-* 🛠 Tecnologias utilizadas:
-    - Java;
-    - Swing;
-    - Padrão de projeto MVC.
-* 📆 Data de criação: 12/05/2021.
-* 📚 Trabalho desenvolvido para a matéria de Linguagem de Programação 2.
-* :warning: Status do Projeto: Concluído.
+Este é um projeto de calculadora Java que utiliza o padrão de projeto Observer. O projeto foi desenvolvido como parte de um curso online da Cod3r, focado no ensino de padrões de projeto e boas práticas de programação. A calculadora foi construída com a implementação do padrão Observer para lidar com a atualização automática de resultados e exibição de histórico. 📚
+
+## Funcionalidades
+
+* Realização de operações aritméticas básicas (adição, subtração, multiplicação e divisão).
+* Interface gráfica simples e intuitiva.
+
+## :book: Padrão Observer
+
+O padrão Observer foi utilizado neste projeto para garantir a atualização automática dos resultados e histórico de operações sempre que uma nova operação for realizada. Isso melhora a separação de preocupações e facilita a manutenção do código.
+
+## 🛠 Tecnologias Utilizadas
+
+- Linguagem Java
+- Padrão de Projeto Observer
+- Interface Gráfica Swing
+
+## 👩‍💻 Requisitos
+
+- Java JDK instalado (versão 11 ou superior)
+
+## Execução
+
+1. Clone ou faça o download do repositório do projeto.
+
+```bash
+git clone https://github.com/SaraCoelhoCosta/Calculadora.git
+```
+
+2. Certifique-se de ter o Java JDK instalado em seu sistema.
+
+3. Navegue até o diretório do projeto.
+
+```bash
+cd Calculadora
+cd src
+```
+
+4. Compile o projeto.
+
+```bash
+javac Main.java
+```
+
+5. Execute o programa.
+
+```bash
+java Main
+```
